@@ -1,2 +1,4 @@
 *.star
 .DS_Store
+*.csv
+entry_exit.txt
